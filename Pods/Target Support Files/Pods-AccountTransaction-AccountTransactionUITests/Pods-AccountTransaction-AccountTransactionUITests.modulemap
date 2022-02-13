@@ -1,0 +1,6 @@
+framework module Pods_AccountTransaction_AccountTransactionUITests {
+  umbrella header "Pods-AccountTransaction-AccountTransactionUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

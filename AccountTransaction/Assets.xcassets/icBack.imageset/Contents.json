@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "toppng.com-arrow-left-to-right-1196x673.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "toppng.com-arrow-left-to-right-1196x673@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "toppng.com-arrow-left-to-right-1196x673@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

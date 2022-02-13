@@ -2,7 +2,7 @@
 //  AccountTransactionUITestsLaunchTests.swift
 //  AccountTransactionUITests
 //
-//  Created by linachan on 18/01/22.
+//  Created by Maria Angelina on 18/01/22.
 //
 
 import XCTest

@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (5.4.4)
+  - DropDown (2.3.13)
+  - SnapKit (5.0.1)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - DropDown (from `https://github.com/AssistoLab/DropDown.git`)
+  - SnapKit
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SnapKit
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  DropDown:
+    :git: https://github.com/AssistoLab/DropDown.git
+
+CHECKOUT OPTIONS:
+  DropDown:
+    :commit: 2ab6f6ce19f0117d1a76ea043ef8f57722c65d16
+    :git: https://github.com/AssistoLab/DropDown.git
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  DropDown: bf260fd688978138019ad7d94f63a2362dad85ba
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 8ebd04a48f56bf0a83d6015f3ef55cbbfba65308
+
+COCOAPODS: 1.11.2
